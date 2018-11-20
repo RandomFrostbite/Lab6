@@ -2,4 +2,6 @@
     <string name="app_name">Lab6</string>
 
     <string name="mySensorsString">List of sensors:</string>
+    <string name="someText">Big text</string>
+    <string name="sensVals">values</string>
 </resources>
